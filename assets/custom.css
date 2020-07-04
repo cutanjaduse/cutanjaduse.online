@@ -1,0 +1,52 @@
+/* @overrides cutanjaproj */
+
+body { 
+	font-family: 'Source Serif Pro', serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Source Serif Pro', serif !important;
+	font-weight: 700 !important;
+}
+
+header.masthead {
+	background-image: url(cover_website_remastered_1920w.jpg);
+}
+
+/* end @overrides */
+
+._cutanjaproj_ssp {
+	font-family: 'Source Sans Pro', sans-serif !important;
+}
+
+#_cutanjaproj_title0 {
+	font-family: 'Arial', sans-serif !important;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 700;
+}
+
+#_cutanjaproj_title1 {
+	text-align: center;
+}
+
+#_cutanjaproj_title2 {
+	text-align: left;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: solid 2px #222;
+}
+
+#_cutanjaproj_synopsis1 {
+	text-align: justify;
+	font-size: 125%;
+}
+
+#_cutanjaproj_synopsis2 {
+	text-align: justify;
+	font-size: 150%;
+}
+
+.statcounter {
+	text-align: center;
+}
